@@ -1,111 +1,29 @@
+<h1 align="center">Hi 👋, I'm Kukati Nikhitha</h1>
+<h3 align="center">Passionate Java Developer</h3>
 
-# 👩‍💻 Kukati Nikhitha – Software Developer | AI Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhitha0406&label=Profile%20views&color=0e75b6&style=flat" alt="nikhitha0406" /> </p>
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Kukati+Nikhitha+Portfolio)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhitha0406" alt="nikhitha0406" /></a> </p>
 
-📫 **Email:** [nikhithakukati4605@gmail.com](mailto:nikhithakukati4605@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/nikhitha-kukati-1a0bb8288](https://www.linkedin.com/in/nikhitha-kukati-1a0bb8288/)  
-👨‍💻 **GitHub:** [github.com/Nikhitha0406](https://github.com/Nikhitha0406)
+- 🌱 I’m currently learning **DSA, Node.js**
 
----
+- 💬 Ask me about **Java, DSA**
 
-## 🎯 Summary
+- 📫 How to reach me **nikhithakukati4605@gmail.com**
 
-> Final-year Computer Science student with a **9.84 CGPA**, skilled in **Java**, **frontend development**, and **AI applications**. Proven experience in building and deploying real-world projects. Actively looking for software development internship opportunities to apply and sharpen technical skills.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-iiXVb4x3GvcFVy6ixlCBjMhCUWpI0gs/view?usp=drive_link](https://drive.google.com/file/d/1-iiXVb4x3GvcFVy6ixlCBjMhCUWpI0gs/view?usp=drive_link)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nikhitha kukati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhitha kukati" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nikhithakukati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhithakukati" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhithakukati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhithakukati" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nikhitha_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhitha_4" height="30" width="40" /></a>
+</p>
 
-## 💼 Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 📱 Eduskills | Android Development Internship  
-*Aug 2024 – Dec 2024*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhitha0406&show_icons=true&locale=en&layout=compact" alt="nikhitha0406" /></p>
 
-- 📌 Developed multiple Android apps using Java and XML.
-- 🚀 Optimized UI performance, reducing load times by 25%.
-- 🌐 Gained exposure to AI, cloud computing, and data science.
-
----
-
-### 📊 Accenture | Data Analytics Simulation (Forage)  
-*Feb 2025 – Mar 2025*
-
-- 🧹 Cleaned and modeled 7 datasets to uncover content trends.
-- 📈 Visualized insights using Excel Dashboards.
-- 🎥 Delivered a 3-minute stakeholder video summary.
-
----
-
-## 🚀 Projects
-
-### 🍿 Netflix Recommendations  
-![Netflix Recommender](https://via.placeholder.com/800x400.png?text=Netflix+Recommender+Project)
-
-- Built using **Python, Streamlit, Pandas**.
-- Content-based recommender with 90%+ accuracy.
-- Live app supports 300+ input queries seamlessly.  
-🔗 [Live Demo](https://netflix-fa59eqc4rdpguifpiuf4qr.streamlit.app/) | [Source Code](https://github.com/Nikhitha0406/Netflix)
-
----
-
-### 🤖 Emotion Detection AI Chatbot  
-![Chatbot](https://via.placeholder.com/800x400.png?text=Emotion+Detection+Chatbot)
-
-- Multilingual chatbot using **NLP & Voice-to-Text**.
-- Designed for accessibility – supports visually impaired users.
-- Secure sessions with context switching.  
-🔗 [Source Code](https://github.com/Nikhitha0406/emotion-chatbot)
-
----
-
-### 🚗 Community Car Pooling  
-![Car Pooling](https://via.placeholder.com/800x400.png?text=Car+Pooling+Web+App)
-
-- Carpooling app using **location-based matching**.
-- Real-time ride sharing for community users.
-- Authentication and ride history tracking.  
-🔗 [Source Code](https://github.com/grishma-gedela/GameHub-Python.git)
-
----
-
-## 🛠️ Skills
-
-| Domain         | Tools & Tech                                 |
-|----------------|----------------------------------------------|
-| Languages      | Java, HTML, CSS, JavaScript                  |
-| Frameworks     | Django, Bootstrap, Streamlit, NumPy, Pandas  |
-| Databases      | MySQL, SQLite                                |
-| Tools & IDEs   | Git/GitHub, VS Code, Google Colab            |
-| CS Concepts    | Data Structures, OOP, OS, DBMS, Networks     |
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science**, Mohan Babu University (2022 – Present)  
-📍 CGPA: 9.84/10 | Tirupati, AP, India
-
-**Intermediate (MPC)**, Jagans Junior College (2020 – 2022)  
-📍 Percentage: 97% | Nellore, AP, India
-
----
-
-## 🏅 Certifications
-
-- 📘 Cisco – Introduction to Data Science  
-- 🔐 Cisco – Introduction to Cybersecurity  
-- 🐍 Cisco – Python Essentials  
-- 🧾 ServiceNow – Micro Certification
-
----
-
-## 📂 Downloads & Media
-
-- 📄 [Resume PDF](https://drive.google.com/file/d/195wY1VekoTF_5ZkgM7ufrC3xemMdsFFX/view?usp=drive_link)  
-- 💬 [Project Demo – Emotion Chatbot](https://drive.google.com/file/d/1ypmMEer7aAA-DWPEDZsd5CZXn76VSEKE/view?usp=drive_link)  
-- 🎬 [Project Video – Netflix Recommender](https://drive.google.com/file/d/1e4T_Ny1s11arzM1NoIibIVz_WYdRoTEH/view?usp=drive_link)
-
----
-
-## 🌟 Let’s Collaborate!
-
-![Footer](https://via.placeholder.com/1200x200.png?text=Thank+You+for+Visiting)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhitha0406&show_icons=true&locale=en" alt="nikhitha0406" /></p>
