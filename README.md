@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kukati Nikhitha</h1>
-<h3 align="center">Passionate Frontend Developer</h3>
+<h3 align="center">Passionate Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhitha0406&label=Profile%20views&color=0e75b6&style=flat" alt="nikhitha0406" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhitha0406" alt="nikhitha0406" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Node.js**
+
+- 👨‍💻 All of my projects are available at [https://my-portifolio-nine-jade.vercel.app/](https://my-portifolio-nine-jade.vercel.app/)
 
 - 💬 Ask me about **Java, DSA**
 
@@ -19,6 +21,7 @@
 <a href="https://www.codechef.com/users/nikhithakukati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhithakukati" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikhithakukati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhithakukati" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhitha_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhitha_4" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/nikhithaku2e0t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/nikhithaku2e0t/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
